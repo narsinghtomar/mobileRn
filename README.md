@@ -95,9 +95,9 @@ For checkout: `git clone https://github.com/narsinghtomar/mobileRn.git
 
 After successful setting up react native and cloning this repository you can run `npx react-native run-ios` for IOS and `npx react-native run-Android` for Android to start the application on a simulator / emulator.
 
-$ yarn install
-$ react-native run-ios
-$ react-native run-android
+`yarn install`
+`react-native run-ios`
+`react-native run-android`
 
 # Scripts
 
@@ -131,7 +131,7 @@ The project currently contains unit-tests for the components, at same path with 
 Run npm test to execute these tests. This will generate a coverage report under coverage folder. To view this report open coverage -> lcov-report and click on index.html.
 ![Coverage](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/testing-coverage.png)
 
-# App Screens (Displays most popular articles from NY Times)
+# App Screens (Displays articles from NY Times)
 
 ![OnBoarding WithOut Internet](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding-without-internet.png)
 ![OnBoarding](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding.png)
