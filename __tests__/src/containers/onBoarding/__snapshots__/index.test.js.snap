@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OnBoardingPage OnBoardingPage renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 60,
+        "width": undefined,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginHorizontal": 17,
+      }
+    }
+  >
+    <Image
+      resizeMode="contain"
+      source={
+        Object {
+          "testUri": "../../../src/assets/images/tempLogo/tempLogo.png",
+        }
+      }
+      style={
+        Object {
+          "height": 200,
+          "width": 200,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 60,
+        "width": undefined,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "marginHorizontal": 41,
+        "textAlign": "left",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#6F10A2",
+          "fontSize": 16,
+          "fontWeight": "700",
+          "lineHeight": 24,
+          "textAlign": "left",
+        }
+      }
+    >
+      [missing "en.onBoarding.bulletTitle" translation]
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 45,
+        "width": undefined,
+      }
+    }
+  />
+  <View>
+    <View
+      accessibilityState={
+        Object {
+          "disabled": false,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#6F10A2",
+          "borderRadius": 4,
+          "height": 48,
+          "justifyContent": "center",
+          "marginTop": 10,
+          "opacity": 1,
+          "paddingHorizontal": 12,
+          "width": 412.50000000000006,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#FFFFFF",
+              "fontSize": 14,
+              "fontWeight": "700",
+              "letterSpacing": 0.25,
+              "textAlign": "center",
+              "textAlignVertical": "center",
+            },
+            undefined,
+          ]
+        }
+      >
+        [missing "en.onBoarding.getStarted" translation]
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

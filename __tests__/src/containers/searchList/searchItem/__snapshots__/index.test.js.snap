@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchItem SearchItem renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#C4C4C4",
+      "borderRadius": 18,
+      "borderWidth": 0.5,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 4,
+      "paddingHorizontal": 15,
+      "paddingVertical": 10,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    ellipsizeMode="tail"
+    numberOfLines={2}
+    style={
+      Object {
+        "color": "#7C7E83",
+        "fontSize": 14,
+        "fontWeight": "500",
+        "textAlign": "left",
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,45 @@
+{
+  "appName": "MobileRN",
+  "app": {
+    "error": "Error",
+    "success": "Success",
+    "ok": "Ok",
+    "nointernet": "No Internet Connection",
+    "nointernetDesc": "Please check your internet connection"
+  },
+  "validation": {
+    "validEmail": "Please enter valid email",
+    "requiredEmail": "Email address is required",
+    "passwordMinLength": "Password must be at least",
+    "characters": "characters",
+    "requiredPassword": "Password is required",
+    "passwordNotMatch": "Passwords do not match",
+    "requiredConfPassword": "Confirm password is required"
+  },
+  "login": {
+    "singIn": "Log in",
+    "email": "Email *",
+    "password": "Password *",
+    "confirmPassword" : "Confirm Password *",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Do you have account with",
+    "signUp": "Create and Account",
+    "noAccountSignUp" : "MobileRN?",
+    "singUp": "Sign Up",
+    "existingAccount" : "If already have account, please"
+  },
+  "onBoarding":{
+     "getStarted" :"Get Started",
+     "bulletTitle" : "Welcome MobileRN"
+  },
+  "category" :{
+    "selectCategoryMsg" : "Please select the category for top news",
+    "world" :"World",
+    "science" :"Science",
+    "search" :"Search",
+    "searchHistory" :"Search History",
+    "searchArticles" :"Search Articles",
+    "searchHistoryNoFound" :"Search history no found.",
+    "resultNotFound" : "Result not found..."
+  }
+}

@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleItem ArticleItem renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#C4C4C4",
+      "borderRadius": 18,
+      "borderWidth": 0.5,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 4,
+      "overflow": "hidden",
+      "paddingHorizontal": 15,
+      "paddingVertical": 10,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": null,
+        }
+      }
+      style={
+        Object {
+          "backgroundColor": "#7C7E83",
+          "borderTopLeftRadius": 18,
+          "borderTopRightRadius": 18,
+          "height": 200,
+          "marginTop": -10,
+          "overflow": "hidden",
+          "width": 750,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 0.6,
+        "justifyContent": "flex-start",
+        "marginTop": 10,
+      }
+    }
+  >
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={2}
+      style={
+        Object {
+          "color": "#323335",
+          "fontSize": 14,
+          "fontWeight": "500",
+          "textAlign": "left",
+        }
+      }
+    />
+    <Text
+      ellipsizeMode="tail"
+      numberOfLines={3}
+      style={
+        Object {
+          "color": "#C4C4C4",
+          "fontSize": 12,
+          "fontWeight": "500",
+          "marginTop": 10,
+          "textAlign": "left",
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#7C7E83",
+          "fontSize": 12,
+          "fontWeight": "400",
+          "marginTop": 10,
+          "textAlign": "left",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "flex-end",
+          "marginTop": 5,
+        }
+      }
+    />
+  </View>
+</View>
+`;

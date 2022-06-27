@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconButton component renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "center",
+      "alignItems": "center",
+      "backgroundColor": "#6F10A2",
+      "borderRadius": 4,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "opacity": 1,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "height": 18,
+          "marginLeft": 5,
+          "marginRight": 5,
+          "width": 18,
+        },
+        Object {
+          "tintColor": undefined,
+        },
+        undefined,
+      ]
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "color": "#FFFFFF",
+          "fontSize": 12,
+          "fontWeight": "400",
+          "letterSpacing": 0.25,
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

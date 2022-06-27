@@ -1,0 +1,350 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUpPage SignUpPage renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": undefined,
+        "color": "red",
+        "elevation": 2,
+        "height": 1334,
+        "justifyContent": "space-around",
+        "position": "absolute",
+        "width": 750,
+        "zIndex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "borderRadius": 20,
+          "display": "flex",
+          "height": 40,
+          "justifyContent": "space-around",
+          "width": 40,
+        }
+      }
+    >
+      <ActivityIndicator
+        animating={true}
+        color="#6F10A2"
+        size="large"
+      />
+    </View>
+  </View>
+  <View
+    accessible={false}
+    focusable={true}
+    onClick={[Function]}
+    onLayout={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "marginBottom": 50,
+          "marginTop": 50,
+        },
+        Object {
+          "paddingBottom": 0,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontSize": 20,
+            "fontWeight": "700",
+          }
+        }
+      >
+        [missing "en.login.singUp" translation]
+      </Text>
+      <View>
+        <View>
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "letterSpacing": 0.5,
+                "lineHeight": 18,
+                "width": 675,
+              }
+            }
+          >
+            [missing "en.login.email" translation]
+          </Text>
+          <TextInput
+            editable={true}
+            keyboardType="email-address"
+            multiline={false}
+            name="email"
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": undefined,
+                  "borderRadius": 4,
+                  "borderWidth": 1,
+                  "color": "#1D74FF",
+                  "height": 45,
+                  "justifyContent": "center",
+                  "marginVertical": 5,
+                  "padding": 14,
+                  "width": 675,
+                },
+                Object {},
+              ]
+            }
+            value=""
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 10,
+              "width": undefined,
+            }
+          }
+        />
+        <View>
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "letterSpacing": 0.5,
+                "lineHeight": 18,
+                "width": 675,
+              }
+            }
+          >
+            [missing "en.login.password" translation]
+          </Text>
+          <TextInput
+            editable={true}
+            multiline={false}
+            name="password"
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            secureTextEntry={true}
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": undefined,
+                  "borderRadius": 4,
+                  "borderWidth": 1,
+                  "color": "#1D74FF",
+                  "height": 45,
+                  "justifyContent": "center",
+                  "marginVertical": 5,
+                  "padding": 14,
+                  "width": 675,
+                },
+                Object {},
+              ]
+            }
+            value=""
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "height": 10,
+              "width": undefined,
+            }
+          }
+        />
+        <View>
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 12,
+                "fontWeight": "400",
+                "letterSpacing": 0.5,
+                "lineHeight": 18,
+                "width": 675,
+              }
+            }
+          >
+            [missing "en.login.confirmPassword" translation]
+          </Text>
+          <TextInput
+            editable={true}
+            multiline={false}
+            name="confirmPassword"
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            secureTextEntry={true}
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": undefined,
+                  "borderRadius": 4,
+                  "borderWidth": 1,
+                  "color": "#1D74FF",
+                  "height": 45,
+                  "justifyContent": "center",
+                  "marginVertical": 5,
+                  "padding": 14,
+                  "width": 675,
+                },
+                Object {},
+              ]
+            }
+            value=""
+          />
+        </View>
+      </View>
+      <View>
+        <View
+          accessibilityState={
+            Object {
+              "disabled": false,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#6F10A2",
+              "borderRadius": 4,
+              "height": 45,
+              "justifyContent": "center",
+              "marginTop": 10,
+              "opacity": 1,
+              "paddingHorizontal": 12,
+              "width": 675,
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "#FFFFFF",
+                  "fontSize": 14,
+                  "fontWeight": "700",
+                  "letterSpacing": 0.25,
+                  "textAlign": "center",
+                  "textAlignVertical": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            [missing "en.login.singUp" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "marginTop": 40,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "400",
+                "marginBottom": 10,
+                "marginEnd": 5,
+              }
+            }
+          >
+            [missing "en.login.existingAccount" translation]
+          </Text>
+          <View
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#6F10A2",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "marginBottom": 10,
+                  "marginEnd": 5,
+                  "textDecorationLine": "underline",
+                }
+              }
+            >
+              [missing "en.login.singIn" translation]
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

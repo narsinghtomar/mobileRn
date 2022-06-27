@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FloatingButton component renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#6F10A2",
+      "borderColor": "#C4C4C4",
+      "borderRadius": 40,
+      "borderWidth": 0.4,
+      "bottom": 30,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "position": "absolute",
+      "right": 30,
+      "width": 60,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/search/search.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageWithText component renders correctly 1`] = `
+<View
+  accessibilityState={
+    Object {
+      "disabled": true,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "opacity": 1,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "marginRight": 8.5,
+        },
+        Object {
+          "height": 12,
+          "tintColor": "#6F10A2",
+          "width": 12,
+        },
+        undefined,
+      ]
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "color": "#6F10A2",
+          "fontSize": 14,
+          "fontWeight": "700",
+          "lineHeight": 15,
+          "marginTop": 0,
+          "textAlign": "left",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

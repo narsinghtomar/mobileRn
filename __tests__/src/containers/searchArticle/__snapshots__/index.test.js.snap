@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchArticlePage SearchArticlePage renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": undefined,
+        "color": "red",
+        "elevation": 2,
+        "height": 1334,
+        "justifyContent": "space-around",
+        "position": "absolute",
+        "width": 750,
+        "zIndex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "borderRadius": 20,
+          "display": "flex",
+          "height": 40,
+          "justifyContent": "space-around",
+          "width": 40,
+        }
+      }
+    >
+      <ActivityIndicator
+        animating={true}
+        color="#6F10A2"
+        size="large"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 20,
+        "width": undefined,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignContent": "center",
+        "alignItems": "center",
+        "alignSelf": "center",
+        "flexDirection": "row",
+        "margin": 5,
+        "paddingEnd": 8,
+        "paddingStart": 8,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignContent": "center",
+            "alignItems": "center",
+            "backgroundColor": "#7C7E83",
+            "borderRadius": 16,
+            "height": 32,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 5,
+            "width": 32,
+          }
+        }
+      >
+        <Image
+          resizeMode="contain"
+          source={
+            Object {
+              "testUri": "../../../src/assets/images/arrow/arrowBack.png",
+            }
+          }
+          style={
+            Object {
+              "height": 11,
+              "tintColor": "#FFFFFF",
+              "transform": Array [
+                Object {
+                  "scaleX": 1,
+                },
+              ],
+              "width": 11,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "letterSpacing": 0.25,
+            "textAlign": "center",
+            "textTransform": "capitalize",
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView
+      ListFooterComponent={[Function]}
+      data={Array []}
+      extraData={Array []}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onEndReached={[Function]}
+      onEndReachedThreshold={0.1}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      showsVerticalScrollIndicator={false}
+      stickyHeaderIndices={Array []}
+      style={
+        Object {
+          "width": "94%",
+        }
+      }
+      viewabilityConfigCallbackPairs={Array []}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+        >
+          <View
+            style={
+              Object {
+                "height": 70,
+                "width": undefined,
+              }
+            }
+          />
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

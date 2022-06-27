@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputField component renders correctly 1`] = `
+<View>
+  <TextInput
+    editable={true}
+    multiline={false}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": undefined,
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "color": "#1D74FF",
+          "height": 45,
+          "justifyContent": "center",
+          "marginVertical": 5,
+          "padding": 14,
+          "width": 675,
+        },
+        Object {},
+      ]
+    }
+  />
+</View>
+`;
