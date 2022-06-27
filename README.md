@@ -133,11 +133,32 @@ Run npm test to execute these tests. This will generate a coverage report under 
 
 # App Screens (Displays articles from NY Times)
 
-![OnBoarding WithOut Internet](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding-without-internet.png)
-![OnBoarding](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding.png)
-![Login](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/login.png)
-![SignUp](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/signup.png)
-![Category](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/category-selection.png)
-![Articles List](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/articles-list.png)
-![Article Details](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/article-details.png)
+# Search Articles With History
+
 ![Search Articles with history](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/search-articles.png)
+
+# Articles List
+
+![Articles List](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/articles-list.png)
+
+# Articles Details
+
+![Article Details](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/article-details.png)
+
+# Category
+
+![Category](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/category-selection.png)
+
+# SignUp
+
+![SignUp](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/signup.png)
+
+# Login
+
+![Login](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/login.png)
+
+# OnBoarding
+
+![OnBoarding](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding.png)
+
+![OnBoarding WithOut Internet](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding-without-internet.png)
