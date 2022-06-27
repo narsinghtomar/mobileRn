@@ -129,15 +129,15 @@ $ ./gradlew assembleRelease
 The project currently contains unit-tests for the components, at same path with name suffixed .test.js.
 
 Run npm test to execute these tests. This will generate a coverage report under coverage folder. To view this report open coverage -> lcov-report and click on index.html.
-![Coverage](screenshots/testing-coverage%20.png)
+![Coverage](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/testing-coverage.png)
 
 # App Screens (Displays most popular articles from NY Times)
 
-![OnBoarding WithOut Internet](screenshots/onboarding-without-internet.png)
-![OnBoarding](screenshots/onboarding.png)
-![Login](screenshots/signup.png)
-![SignUp](screenshots/login.png)
-![Category](screenshots/category-selection.png)
-![Articles List](screenshots/articles-list.png)
-![Article Details](screenshots/article-details.png)
-![Search Articles with history](screenshots/search-articles.png)
+![OnBoarding WithOut Internet](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding-without-internet.png)
+![OnBoarding](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/onboarding.png)
+![Login](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/login.png)
+![SignUp](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/signup.png)
+![Category](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/category-selection.png)
+![Articles List](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/articles-list.png)
+![Article Details](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/article-details.png)
+![Search Articles with history](https://github.com/narsinghtomar/mobileRn/blob/master/screenShots/search-articles.png)
